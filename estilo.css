@@ -1,0 +1,30 @@
+.logo{
+    width:90px;
+    height: 50px;
+    margin-right: 3px;
+}
+
+.navbar{
+    background-color: black;
+   
+}
+
+h1{
+    color: black;
+    
+    margin-top: 10px;
+}
+
+.container-fluid{
+    background-color: black;
+    margin-top: 10px;
+}
+
+.footer{
+    color: blanchedalmond;
+}
+
+.principal{
+    height: 600px;
+    width: 100%;
+}
